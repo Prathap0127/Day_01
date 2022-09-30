@@ -1,0 +1,9 @@
+Difference between windows object and Document object
+Windows object:
+The windows object is represented by a web browser or the iframe inside the document of the browser. Ex, defining the browser size, action
+Syntax: window.property_name
+
+Document object:
+The document which loads into the browser is called as document object ex., html . the document object is a property of window object 
+Syntax: document.property_name
+
